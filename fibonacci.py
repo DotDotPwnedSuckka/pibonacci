@@ -1,6 +1,6 @@
-#fibonacci + matemática simples
-x = 0
-a = 1 + x
+
+x = 1
+a = 1
 b = a + 1
 c = b + 1
 d = c + b
@@ -9,7 +9,7 @@ f = d + e
 g = e + f
 h = f + g
 i = g + h
-print('1')
+print(x)
 print(a)
 print(b)
 print(c)
